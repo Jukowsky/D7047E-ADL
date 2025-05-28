@@ -45,9 +45,7 @@ The Markov Property states that the future state depends only on the current sta
 
 ## Task 2.4 - Does Chess satisfy the Markov Property?
 
-Yes, chess satisfies the Markov property because the current board position contains all the information needed to decide the next action. .
-
-There are moves such as castling that depends on previous states e.g. the king and rook must not have moved previously, the king cannot be moved into check
+No, there are moves such as castling that depends on previous states e.g. the king and rook must not have moved previously, the king cannot be moved into check
 
 ## Task 2.5 - Q-learning vs. Deep Q-learning
 
